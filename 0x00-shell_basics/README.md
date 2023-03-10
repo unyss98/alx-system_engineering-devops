@@ -1,1 +1,1 @@
-create abslute path name
+executable shell scripts
