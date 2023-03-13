@@ -1,3 +1,3 @@
 #!/bin/bash
-grep "bin" /etc/passwd | wc -l
+grep -F bin /etc/passwd -print | wc -l
 
