@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -P -empty -la |'\n'  
+find . -P --empty -la -print '\n'  
